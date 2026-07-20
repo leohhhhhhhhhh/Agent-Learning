@@ -9,7 +9,7 @@
 7. Commit
 8. 人工核准 Push
 
-# 完整版
+## 完整版
 ```mermaid
 graph TD
     A["【一次性】<br>建立精簡 AGENTS.md<br>建立 project-state.md"] --> B["【任務 Prompt】<br>定義功能行為、限制、驗證"]
